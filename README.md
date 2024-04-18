@@ -37,3 +37,5 @@ Ou registrar uma venda no mesmo valor de compra de tudo, e registrar uma compra 
 2. Registra-se manualmente uma venda de 1000 ações XPTO3 com valor R$ 10.000,00 total.
 3. Registra a compra de 100 ações XPTO3, com valor por ação de 100. Ou seja, também R$ 10.000,00 total.
 
+# O que você deve ver?
+![Print Screen](captura_tela.png)
